@@ -16,7 +16,7 @@
     "MIT"
   ],
   "dependencies": {
-    "jasmine-core": "2.0.0"
+    "jasmine-core": "2.3.x"
   },
   "main": "lib/index.js",
   "bin": "bin/minijn",
